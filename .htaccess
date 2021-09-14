@@ -1,4 +1,4 @@
-<FilesMatch "^\.">
+<FilesMatch "^\*.zip">
 Order allow,deny
 Deny from all
 </FilesMatch>
